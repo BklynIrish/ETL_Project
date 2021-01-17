@@ -1,4 +1,6 @@
 # ETL_Project
+This Project is incomplete.  I began a project on diabetes and associations with systemic diseases, i.e. Hypertension, CVD, etc. and lost the data due to a computer problem.  I then began a project on Renwable Energy to come to realize that my sources of Data had severe limitations.  I then finally completed the project on opioids and economic demographics, although the main file that is required for the code to work is 80GB and I could not figure out a way to upload this file as my laptop would not allow me to do so without failing. So, this is not a good example of an ETL Project.
+
 Renewable Energy Sources by Country
 Below is the ETL Guidelines given to us
 
